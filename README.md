@@ -1,70 +1,40 @@
-# 👋 Hi, I'm Vedika Srivastava
+<!-- HEADER -->
 
-<h3 align="center">Machine Learning & GenAI Enthusiast | Backend Developer</h3>
+<h1 align="center">Vedika Srivastava</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=B.Tech+CSE+%40+KIET;Exploring+Machine+Learning+%26+GenAI;Building+with+Python+%26+FastAPI;Learning+and+Growing+Every+Day" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Machine+Learning+Enthusiast;AI%2FML+Enthusiast;Generative+AI+Enthusiast;Aspiring+AI+Engineer;Aspiring+Machine+Learning+Engineer;Exploring+LLMs+%26+RAG" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <b>B.Tech Computer Science & Engineering @ KIET</b> 
-  <br/>
-  Machine Learning • Generative AI • Backend Development
+  <b>B.Tech CSE @ KIET</b> &nbsp; | &nbsp; Machine Learning &nbsp; • &nbsp; GenAI &nbsp; • &nbsp; Backend Development
 </p>
 
 ---
 
-## 👩‍💻 About Me
+## 👩🏻‍💻 About
 
-I'm a third-year Computer Science undergraduate at **KIET Deemed To Be University**, passionate about turning data into intelligence.
+I'm a Computer Science undergraduate at **KIET Deemed To Be University**, passionate about turning data into intelligence.
 
-- 🔭 Exploring **Machine Learning, Deep Learning and Generative AI**
-- 🧠 Learning about **LLMs, NLP and Retrieval-Augmented Generation (RAG)**
-- ⚙️ Building backend applications using **Python, FastAPI and REST APIs**
-- 📊 Interested in data analysis, model development and intelligent systems
-- 🌱 Continuously improving my problem-solving and software development skills
-- 🎯 Focused on learning, experimenting and building strong technical foundations
+I enjoy exploring **Machine Learning, Deep Learning, and Generative AI**, while building my skills in Python, backend development, and intelligent systems.
 
----
-
-## 🎓 Education
-
-**KIET Deemed To Be University, Ghaziabad**
-
-B.Tech — Computer Science and Engineering  
-2024 – 2028 | CGPA: 8.2/10
-
----
-
-## 💼 Experience
-
-### AI/ML Intern Program — MNNIT Allahabad
-*June 2026 – July 2026 | Allahabad, India*
-
-- Completed intensive training in Machine Learning fundamentals.
-- Gained practical exposure to supervised and unsupervised learning.
-- Studied deep learning architectures, including CNNs and neural networks.
-- Applied Python, NumPy and Pandas for data analysis, preprocessing and statistical modelling.
-
-### Machine Learning Intern — SyntecxHub
-*June 2026 – July 2026 | Remote*
-
-- Gained hands-on experience in machine learning model development.
-- Applied recommendation techniques and clustering algorithms.
-- Worked with classification and regression models.
-- Practiced model comparison, evaluation and data-driven analysis.
+- 🎓 Pursuing B.Tech in Computer Science & Engineering (2024–2028)
+- 🤖 Interested in Machine Learning, NLP, LLMs and Generative AI
+- ⚙️ Exploring FastAPI, REST APIs and backend development
+- 🧠 Learning about RAG and modern AI architectures
+- 🌱 Always learning, experimenting and improving my technical skills
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming Languages
+### 💻 Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js" />
 </p>
 
-**Also familiar with:** SQL, HTML, CSS
+`SQL` `HTML` `CSS`
 
 ### ⚙️ Backend & APIs
 
@@ -72,16 +42,19 @@ B.Tech — Computer Science and Engineering
   <img src="https://skillicons.dev/icons?i=fastapi,flask" />
 </p>
 
-`REST APIs` `Pydantic` `Uvicorn`
+`Pydantic` `Uvicorn` `REST APIs`
 
-### 🤖 Machine Learning & GenAI
+### 🤖 AI / ML & GenAI
 
 <p>
   <img src="https://skillicons.dev/icons?i=tensorflow,opencv" />
 </p>
 
-`NumPy` `Pandas` `Scikit-learn` `Matplotlib` `Seaborn`  
-`Deep Learning` `NLP` `RAG` `LangChain` `LLMs` `MediaPipe`
+`NumPy` `Pandas` `Scikit-learn` `Matplotlib` `Seaborn`
+
+`Deep Learning` `NLP` `Computer Vision` `MediaPipe`
+
+`LangChain` `RAG` `LLMs` `Generative AI`
 
 ### 🗄️ Databases
 
@@ -89,57 +62,86 @@ B.Tech — Computer Science and Engineering
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite" />
 </p>
 
-### ☁️ Cloud, DevOps & Tools
+### ☁️ Cloud & DevOps
 
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,githubactions,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,githubactions,git,github" />
 </p>
 
 `MLflow` `Render`
+
+### 🔧 Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,postman,git,github" />
+</p>
+
+---
+
+## 💼 Experience
+
+**AI/ML Intern Program — MNNIT Allahabad**
+
+*June 2026 – July 2026*
+
+- Completed intensive training in supervised and unsupervised machine learning.
+- Studied deep learning architectures, including CNNs and neural networks.
+- Applied Python, NumPy and Pandas for data analysis and preprocessing.
+
+**Machine Learning Intern — SyntecxHub**
+
+*June 2026 – July 2026 | Remote*
+
+- Gained practical experience with machine learning algorithms.
+- Worked with recommendation systems and clustering techniques.
+- Practiced classification, regression and model evaluation.
+
+---
+
+## 🎓 Education
+
+**KIET Deemed To Be University, Ghaziabad**
+
+B.Tech — Computer Science and Engineering
+
+2024 – 2028 | CGPA: 8.2/10
 
 ---
 
 ## 🏅 Certifications
 
-| Certification | Issuer |
-|---|---|
-| AWS Certified Machine Learning Engineer – Associate | Amazon Web Services |
-| AWS Certified Cloud Practitioner | Amazon Web Services |
-| Networking Essentials | Cisco Networking Academy |
-
-**AWS Machine Learning Engineer – Associate**
-
-- Issued: October 20, 2026
-- Valid until: October 20, 2029
+- **AWS Certified Machine Learning Engineer – Associate** — October 2026
+- **AWS Certified Cloud Practitioner** — May 2026
+- **Networking Essentials** — Cisco Networking Academy, April 2026
 
 ---
 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=VedikaSri&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VedikaSri&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=VedikaSri&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VedikaSri&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=VedikaSri&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=VedikaSri&theme=github-dark-blue&hide_border=true" />
 </p>
 
 ---
 
-## 📈 Contribution Activity
+## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VedikaSri&theme=github-compact&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VedikaSri&theme=github-compact&hide_border=true" width="100%" />
 </p>
 
 ---
 
-## 🤝 Connect With Me
+## 📫 Connect With Me
 
 <p align="center">
   <a href="mailto:vedikasrvstv@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/vedika-srivastava-a84817318">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -150,5 +152,5 @@ B.Tech — Computer Science and Engineering
 </p>
 
 <p align="center">
-  <i>"Learning by building, growing by experimenting."</i>
+  <i>Learning. Building. Evolving.</i>
 </p>
