@@ -31,7 +31,7 @@ I enjoy exploring **Machine Learning, Deep Learning, and Generative AI**, while 
 ### 💻 Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js" />
+  <img src="https://skillicons.dev/icons?i=python,java" />
 </p>
 
 `SQL` `HTML` `CSS`
